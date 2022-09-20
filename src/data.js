@@ -11,7 +11,7 @@ export const projects = [
     description:
       "Using postal api, it verifies the postal name and generate random weather data",
     image: Weatherpng,
-    link: "",
+    link: "https://kvsp-weather.heroku.com",
   },
   {
     title: "Choose your school",
