@@ -12,7 +12,7 @@ export const projects = [
     description:
       "todo app with features of description, priority, complete and delete",
     image: TodoPng,
-    link: "https://hackzeal.me",
+    link: "https://todo.hackzeal.me",
   },
   {
     title: "Choose your school",
