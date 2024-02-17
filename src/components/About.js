@@ -10,7 +10,7 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Pursing MS in Data Science @Deakin University.Working as Digital Specalist @Infosys. MERN stack Freelancer.
+            Data Engineer
           </p>
           <div className="flex justify-center">
             <a
